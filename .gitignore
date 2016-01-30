@@ -1,0 +1,24 @@
+# Visual Studio project/solution/temps
+*.sdf
+*.exp
+*.ilk
+*.pdb
+*.exp
+
+
+# CMake build and install dir
+Debug
+ipch
+Release
+
+# CMake generated files/dirs
+
+
+# Makefile touched files(for virtual targets)
+
+
+# Add .gitmodules, to avoid accidental commit
+#.gitmodules
+#/Release/VG/wwt
+#/Release/VG/terrain
+#/Release/VG/terrainOri
